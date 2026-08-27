@@ -1,4 +1,4 @@
-# Thomas Team Project
+# DevCore
 
 Team project for CMPE 131.
 
